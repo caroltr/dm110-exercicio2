@@ -20,7 +20,7 @@ create sequence seq_client;
 Exemplo de JSON a ser inserido no body:
 ```
 {
-	"name": "natalia",
-	"email": "natalia@gmail.com"
+	"name": "Caroline",
+	"email": "caroltr.srs@gmail.com"
 }
 ```
