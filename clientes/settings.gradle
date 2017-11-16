@@ -1,0 +1,1 @@
+include "clientes-ear", "clientes-war", "clientes-api", "clientes-impl", "clientes-ejb", "clientes-ejb-client"
