@@ -16,3 +16,11 @@ create sequence seq_client;
 `[GET] /clientes/api/client`
 
 `[POST] /clientes/api/client/insert`
+
+Exemplo de JSON a ser inserido no body:
+```
+{
+	"name": "natalia",
+	"email": "natalia@gmail.com"
+}
+```
